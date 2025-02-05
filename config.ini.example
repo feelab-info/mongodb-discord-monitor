@@ -1,0 +1,10 @@
+[mongodb]
+host = serverIP
+port = 27017
+username = Mongodb_Username
+password = mongodb_Password
+authSource = admin
+
+[discord]
+token = Here you put your Discord bot token
+channel_id = Here you put your channel id that you want to the bot to send the message
